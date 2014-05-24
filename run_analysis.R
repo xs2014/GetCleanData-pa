@@ -33,7 +33,6 @@ colnames(ytest)[1]<-"ActivityID"
 subjecttest<-read.table("test/subject_test.txt")
 colnames(subjecttest)[1]<-"SubjectID"
 
-
 activity<-factor(ytest$ActivityID,levels=activity_labels$ActivityID,labels=activity_labels$Activity)
 dataframe.test<-cbind(subjecttest,activity,xtest)  
 
