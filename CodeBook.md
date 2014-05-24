@@ -38,17 +38,17 @@ The datasets can be obtained via the link below: [https://d396qusza40orc.cloudfr
 
 * `train/Inertial Signals/body_gyro_x_train.txt` The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second.
 
+
 A full description is available at the site where the data was obtained:
-[http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones]
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 The purpose of this project is to demonstrate one’s ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis.
-
 
 ## Data text files used
 
 The following text files from the dataset were used for creating the final tidied dataset:
 
-* `subject_train.txt` and `subject_test.txt
+* `subject_train.txt` and `subject_test.txt`
 * `y_train.txt` and `y_test.txt`
 * `X_train.txt` and `X_test.txt`
 * `features.txt`
