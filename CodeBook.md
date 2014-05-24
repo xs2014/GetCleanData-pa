@@ -12,7 +12,7 @@ This course project uses the data collected from the accelerometers on a Samsung
 
 The datasets can be obtained via the link below: [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip]
 
-### The dataset includes the following files:
+#### The dataset includes the following files:
 
 * `features_info.txt` Shows information about the variables used on the feature vector.
 
@@ -28,7 +28,7 @@ The datasets can be obtained via the link below: [https://d396qusza40orc.cloudfr
 
 * `test/y_test.txt` Test labels.
 
-### The following files are available for the train and test data. Their descriptions are equivalent. 
+#### The following files are available for the train and test data:
 
 * `train/subject_train.txt` Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
