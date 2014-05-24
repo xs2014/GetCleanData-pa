@@ -10,7 +10,7 @@ This Markdown file provides descriptions of the datasets from the course project
 
 This course project uses the data collected from the accelerometers on a Samsung Galaxy S smartphone.  The various accelerometer readings were gathered from 30 volunteers (subjects) while they were performing different activities.  When a subject took an action at a specific time, 561 features were used to describe that action.
 
-The datasets can be obtained via the link below: [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip]
+The datasets can be obtained via the link below: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 #### The dataset includes the following files:
 
@@ -42,7 +42,7 @@ The datasets can be obtained via the link below: [https://d396qusza40orc.cloudfr
 A full description is available at the site where the data was obtained:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-The purpose of this project is to demonstrate one’s ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis.
+The purpose of this project is to demonstrate oneï¿½s ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis.
 
 ## Data text files used
 
